@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: *
+
+Sitemap: https://gdps-list.pages.dev/sitemap.xml
